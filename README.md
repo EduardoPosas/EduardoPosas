@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estoy aprendiendo Kotlin y arquitectura limpia para Android.<br><br>🎯 Objetivos:<br><br>* Desarrollar aplicaciones complejas con Android<br>* Desarrollar aplicaciones complejas con Next.js<br>* Mejorar la aplicación de los principios SOLID<br><br>🎲 Hecho curioso:<br>Soy ingeniero, pero no en Sistemas 👀</p>
+<p align="left">📚 Estoy mejorando en Kotlin y arquitectura limpia para Android.<br><br>🎯 Objetivos:<br><br>* Desarrollar aplicaciones complejas con Android<br>* Desarrollar aplicaciones complejas con Next.js<br>* Mejorar la aplicación de los principios SOLID<br><br>🎲 Hecho curioso:<br>Soy ingeniero, pero no en Sistemas 👀</p>
 
 ###
 
