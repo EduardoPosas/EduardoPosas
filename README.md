@@ -14,7 +14,7 @@
   <li>📚 Estoy mejorando en Kotlin y arquitectura limpia para Android.</li>
   <li>🎯 Objetivos: Mejorar día con día como desarrollador</li>
   <li>💼 <a href="https://nextjs-portfolio-oz8tlxjl1-alexander-pozas-projects.vercel.app/" target="_blank">Visiten mi portafolio</a></li>
-  <li>🎲 Hecho curioso:<br>Soy ingeniero, pero no en Sistemas 👀</li>
+  <li>🎲 Hecho curioso: Soy ingeniero, pero no en Sistemas 👀</li>
 </ul>
 
 ###
