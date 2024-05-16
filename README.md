@@ -11,9 +11,12 @@
 ###
 
 <ul>
-  <li>📚 Estoy mejorando en Kotlin y arquitectura limpia para Android.</li>
-  <li>🎯 Objetivos: Mejorar día con día como desarrollador</li>
+  <li>📚 Estoy incursionando en desarrollo de aplicaciones de Android con Kotlin, arquitectura limpia e interfaces declarativas</li>
+  <li>📚 Profundizo en el desarrollo web con TypeScript</li>
+  <li>🎯 Mejoro día con día como desarrollador</li>
   <li>💼 <a target="_blank" href="https://nextjs-portfolio-alexander-pozas-projects.vercel.app/">Visiten mi portafolio</a></li>
+  <li>💼 <a target="_blank" href="https://app.aluracursos.com/user/a-posas">Perfil de Oracle y Alura latam</a></li>
+  <li>💼 <a target="_blank" href="https://g.dev/alexander-posas">Perfil de Android</a></li>
 </ul>
 
 ###
