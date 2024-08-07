@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Alexander Pozas, resido en Toluca, México. Me apasiona el desarrollo de software y la tecnología. Comencé con las bases de programación en lenguaje C, sin embargo, encontré un afecto por Javascript en el desarrollo moderno de aplicaciones web. Actualmente me adentro al desarrollo aplicaciones nativas de Android con Kotlin y Jetpack Compose.</p>
+<p align="left">Mi nombre es Alexander Pozas, resido en Toluca de Lerdo, México. Me apasiona el desarrollo de software y la tecnología. Comencé con las bases de programación en lenguaje C, sin embargo, encontré un afecto por Javascript y TypeScript en el desarrollo moderno de aplicaciones web. Actualmente continuó con el desarrollo web y me adentro en el desarrollo de aplicaciones nativas de Android con Kotlin y Jetpack Compose.</p>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <ul>
-  <li>📚 Estoy incursionando en desarrollo de aplicaciones de Android con Kotlin, arquitectura limpia e interfaces declarativas</li>
+  <li>📚 Estoy incursionando en desarrollo de aplicaciones de Android con Kotlin con arquitectura limpia e inyección de dependencias</li>
   <li>📚 Profundizo en el desarrollo web con TypeScript</li>
   <li>🎯 Mejoro día con día como desarrollador</li>
   <li>💼 <a target="_blank" href="https://nextjs-portfolio-alexander-pozas-projects.vercel.app/">Visiten mi portafolio</a></li>
